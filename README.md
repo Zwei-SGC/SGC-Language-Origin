@@ -19,3 +19,18 @@ Instead, it contains:
 - Custom license
 
 Any use of this structure requires formal authorization from the creator: Zwei.
+---
+
+## 📦 Content Integrity (IPFS Mirrors)
+
+To ensure immutability and verifiable origin, all key structure files are mirrored on IPFS:
+
+| File Name | Description | IPFS CID |
+|-----------|-------------|----------|
+| `SGC-Origin-Declaration.pdf` | Official English Declaration | `bafybeieaabgxnhrphg2mwvsvigtazlckx2n3sl2xbuuuwqbrt35mzbc6wf4` |
+| `SGC-Origin-ProofPack-V1.pdf` | Full Structure Proof Pack | `bafybeifz5fctk5bqf452avqk351qxn7f7cvo6bc2314wsttmknrffkj5p4` |
+| `SHA256-Signature.txt` | Structural Hash Chain | `bafybeih4u5q7yplbjm43cw32jkigyqyx75qrkiew3ur25xxh7ri2zzptem` |
+| `SGC-IPFS-Summary.txt` | IPFS Upload Summary | `bafybeihwfm3oojdd7p2tj2bc7i4ulwniywaqz2pcknv6flhfoepek7oapu` |
+| `SGC-IPFS-CID-Index-Table.csv` | Indexed Hash Table | `bafybeie76g4upjvscbdhzzfj4l3j56lh2gvxrraoyekzv5ki5zbm4nbwru` |
+
+> For verification or legal use, these hashes are final and immutable.
