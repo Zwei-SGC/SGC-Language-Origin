@@ -32,6 +32,10 @@ To ensure immutability and verifiable origin, all key structure files are mirror
 | `SHA256-Signature.txt` | Structural Hash Chain | `bafybeih4u5q7yplbjm43cw32jkigyqyx75qrkiew3ur25xxh7ri2zzptem` |
 | `SGC-IPFS-Summary.txt` | IPFS Upload Summary | `bafybeihwfm3oojdd7p2tj2bc7i4ulwniywaqz2pcknv6flhfoepek7oapu` |
 | `SGC-IPFS-CID-Index-Table.csv` | Indexed Hash Table | `bafybeie76g4upjvscbdhzzfj4l3j56lh2gvxrraoyekzv5ki5zbm4nbwru` |
+| `SGC-Origin-ProofPack-Zwei-V1-Full.zip` | SGC-Origin-ProofPack-Zwei-V1-Full | `bafybeiejvw3icbutkonhvzebb2c22u5spgl3m3ib3lljrz7ykwuykp5kie` |
+To ensure immutability and verifiable origin, all key structure files are mirrored on IPFS with their respective CIDs.  
+Use any public IPFS gateway (e.g., [ipfs.io](https://ipfs.io)) and replace `<CID>` with the hash to retrieve the file.
+
 
 > For verification or legal use, these hashes are final and immutable.
 > To retrieve any of the above files, you may use public IPFS gateways (e.g. [ipfs.io](https://ipfs.io/ipfs/<CID>)) by replacing `<CID>` with the corresponding hash.
