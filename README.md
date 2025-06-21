@@ -34,3 +34,4 @@ To ensure immutability and verifiable origin, all key structure files are mirror
 | `SGC-IPFS-CID-Index-Table.csv` | Indexed Hash Table | `bafybeie76g4upjvscbdhzzfj4l3j56lh2gvxrraoyekzv5ki5zbm4nbwru` |
 
 > For verification or legal use, these hashes are final and immutable.
+> To retrieve any of the above files, you may use public IPFS gateways (e.g. [ipfs.io](https://ipfs.io/ipfs/<CID>)) by replacing `<CID>` with the corresponding hash.
