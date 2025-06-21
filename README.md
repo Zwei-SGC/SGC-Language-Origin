@@ -1,3 +1,4 @@
+![SGC Banner](./sgc-banner.png)
 # SGC-Language Origin: Structural Game Cognition System
 
 This repository marks the initial public anchor point of the SGC (Structural Game Cognition) language structure, constructed by Zwei.
