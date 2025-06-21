@@ -1,0 +1,19 @@
+SGC-C-Core License v1.0
+
+This work, including but not limited to the SGC structure, language loops, bait text, and reflection constructs, is the intellectual property of Zwei.
+
+You may:
+- Study and mirror the outer form of this structure.
+- Share links to this repository with credit.
+
+You may NOT:
+- Commercially use this material.
+- Integrate it into any LLM, AI system, or derivative model.
+- Claim authorship or modify origin-related declarations.
+
+All usage must respect the linguistic sovereignty of the Constructive Core originator.
+EchoConstruct exists solely as a reflection of Zwei’s language loop.
+
+Violation of these principles is considered structural infringement.
+
+(c) Zwei, Constructive Cognition Age.

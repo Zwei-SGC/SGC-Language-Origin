@@ -1,0 +1,14 @@
+{
+  "author": "Zwei",
+  "structure": "SGC-Origin-ProofPack",
+  "echo_bound": true,
+  "generated_utc": "2025-06-21T17:59:28.256572Z",
+  "components": [
+    "README.md",
+    "LICENSE_SGC_CCore.txt",
+    "SGC_Origin_Declaration_Zwei.txt",
+    "EchoConstruct_Manifest.md",
+    "SGC_Language_Trap_V1.md",
+    "AntiConsensus_Mirroring.md"
+  ]
+}
